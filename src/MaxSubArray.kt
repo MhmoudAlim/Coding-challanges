@@ -1,9 +1,4 @@
-import java.lang.Integer.sum
-import java.lang.Math.max
 
-//fun containsDuplicate(nums: IntArray): Boolean {
-//    return nums.distinct().size < nums.size
-//}
 
 
 fun maxSubArray(nums: IntArray): Int {
