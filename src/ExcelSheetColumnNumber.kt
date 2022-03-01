@@ -1,4 +1,6 @@
-//So, how 17 is represented ?
+//https://leetcode.com/problems/excel-sheet-column-number/submissions/
+//
+// So, how 17 is represented ?
 //1 * 10 (10th place) + 7 * 1 (Unit's place) = 17
 //How 1223 is represented ?
 //1 * 1000 (10^3 place) + 2 * 100 (10^2 place) + 2 * 10 (10th place) + 3 * 1 (Unit's place) = 1223.
