@@ -10,6 +10,12 @@ This repository is my playground where I practice problem-solving, Kotlin concep
 - [Easy Problems](#Easy)
 - [Medium Problems](#Medium)
 
+<br/>
+
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif"  alt=""/>
+
+<br/>
+
 
 # Concepts
 
@@ -18,7 +24,7 @@ This repository is my playground where I practice problem-solving, Kotlin concep
 - [Reflection](src/Concepts_playground/Reflection.kt)
 - [Scope Functions](src/Concepts_playground/scopeFuns.kt)
 
-<br/>
+
 
 
 # Problems
