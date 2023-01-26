@@ -36,7 +36,6 @@ This repository is my playground where I practice problem-solving, concepts and 
 
 ## Easy
 
-
 - [Contains Duplicate](src/leetcode_problems/easy/ContainsDuplicate.kt)
 - [Merge Sorted Array](src/leetcode_problems/easy/MergeSortedArray.kt)
 - [Palindrome Number](src/leetcode_problems/easy/PalindromeNumber.kt)
@@ -56,6 +55,7 @@ This repository is my playground where I practice problem-solving, concepts and 
 
 ## Hard 
 
+- [Median Of TwoSorted Arrays](src/leetcode_problems/hard/MedianOfTwoSortedArrays.kt)
 
 
 <br/>
