@@ -1,4 +1,4 @@
-package Concepts_playground
+package concepts_playground
 
 import kotlin.reflect.jvm.jvmName
 

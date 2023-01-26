@@ -1,4 +1,4 @@
-/*
+package leetcode_problems.easy/*
 nums1 = intArray()
 nums2 = intArray() //  nums2.length = n
 m = number of elements in nums1

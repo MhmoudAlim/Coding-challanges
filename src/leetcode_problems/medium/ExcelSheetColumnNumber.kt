@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/excel-sheet-column-number/submissions/
+package leetcode_problems.medium//https://leetcode.com/problems/excel-sheet-column-number/submissions/
 //
 // So, how 17 is represented ?
 //1 * 10 (10th place) + 7 * 1 (Unit's place) = 17

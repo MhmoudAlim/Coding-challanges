@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/longest-common-prefix/
+package leetcode_problems.medium//https://leetcode.com/problems/longest-common-prefix/
 
 //best
 fun longestCommonPrefix(strs: Array<String>?): String {

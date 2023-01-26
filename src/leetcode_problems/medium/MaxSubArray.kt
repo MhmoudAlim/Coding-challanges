@@ -1,3 +1,5 @@
+package leetcode_problems.medium
+
 fun maxSubArray(nums: IntArray): Int {
     var maxGlobal = nums[0]
     var maxCurrent = nums[0]

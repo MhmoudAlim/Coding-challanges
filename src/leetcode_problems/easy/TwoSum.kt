@@ -1,3 +1,5 @@
+package leetcode_problems.easy
+
 fun twoSum(nums: IntArray, target: Int): IntArray {
     var ans = intArrayOf()
     val map = mutableMapOf<Int, Int>()

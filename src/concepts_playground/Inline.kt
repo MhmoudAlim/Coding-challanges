@@ -1,4 +1,4 @@
-package Concepts_playground
+package concepts_playground
 
 import kotlinx.coroutines.*
 import javax.swing.tree.TreeNode
@@ -12,7 +12,7 @@ inline fun function(
     noinline z: () -> Unit
 ) {
     foo = {
-        // x() // error
+        // leetcode_problems.easy.getX() // error
         y() // inlined
         z() // noinlined
     }
