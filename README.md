@@ -10,7 +10,7 @@ This repository is my playground where I practice problem-solving, concepts and 
 - [Data Structure & Algo Problems](#Problems)
      - [Easy Problems](#Easy)
      - [Medium Problems](#Medium)
-     - [Hard Problems](#Medium)
+     - [Hard Problems](#Hrad)
 - [SQL Query Problems](#SQL)
 
 <br/>
@@ -52,6 +52,10 @@ This repository is my playground where I practice problem-solving, concepts and 
 - [Longest Common Pref](src/leetcode_problems/medium/LongestCommonPref.kt)
 - [Max SubArray](src/leetcode_problems/medium/MaxSubArray.kt)
 - [ReverseString](src/leetcode_problems/medium/ReverseString.kt)
+
+
+## Hard 
+
 
 
 <br/>
