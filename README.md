@@ -1,14 +1,17 @@
 # Coding challenges
 
 # Description:
-This repository is my playground where I practice problem-solving, concepts and coding challenges in Kotlin & Java.
+This repository is my playground where I practice problem-solving, concepts and coding challenges.
 
 
 # Table of contents
 
 - [Concepts Playground](#Concepts)
-- [Easy Problems](#Easy)
-- [Medium Problems](#Medium)
+- [Data Structure & Algo Problems](#Problems)
+     - [Easy Problems](#Easy)
+     - [Medium Problems](#Medium)
+     - [Hard Problems](#Medium)
+- [SQL Query Problems](#SQL)
 
 <br/>
 
@@ -25,7 +28,6 @@ This repository is my playground where I practice problem-solving, concepts and 
 - [Scope Functions](src/concepts_playground/scopeFuns.kt)
 - [DSL Marker](src/concepts_playground/DslMarker.kt)
 - [Operator Overloading](src/concepts_playground/OperatorOverloading.kt)
-
 
 
 
@@ -50,3 +52,10 @@ This repository is my playground where I practice problem-solving, concepts and 
 - [Longest Common Pref](src/leetcode_problems/medium/LongestCommonPref.kt)
 - [Max SubArray](src/leetcode_problems/medium/MaxSubArray.kt)
 - [ReverseString](src/leetcode_problems/medium/ReverseString.kt)
+
+
+<br/>
+
+# SQL
+
+- [Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan&id=sql-i)
