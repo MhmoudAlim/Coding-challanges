@@ -52,10 +52,12 @@ This repository is my playground where I practice problem-solving, concepts and 
 - [Longest Common Pref](src/leetcode_problems/medium/LongestCommonPref.kt)
 - [Max SubArray](src/leetcode_problems/medium/MaxSubArray.kt)
 - [ReverseString](src/leetcode_problems/medium/ReverseString.kt)
+- [Longest Substring Without repeating Chars](src/leetcode_problems/medium/LongestSubstringWithoutRepeatingCharacters.kt)
 
 
 ## Hard 
 
+- [Median Of TwoSorted Arrays](src/leetcode_problems/hard/MedianOfTwoSortedArrays.kt)
 - [Median Of TwoSorted Arrays](src/leetcode_problems/hard/MedianOfTwoSortedArrays.kt)
 
 
