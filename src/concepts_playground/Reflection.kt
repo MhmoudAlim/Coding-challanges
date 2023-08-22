@@ -9,7 +9,6 @@ fun main() {
     val ref = Reflection()
     println("ref : $ref")
 
-
     val ref2 = Reflection::class.jvmName
     println("ref2 : $ref2")
 
