@@ -43,6 +43,7 @@ This repository is my playground where I practice problem-solving, concepts and 
 - [Pascal Triangle](src/leetcode_problems/easy/PascalTriangle.kt)
 - [TwoSumPascal Triangle](src/leetcode_problems/easy/TwoSum.kt)
 - [Calculate Points](src/leetcode_problems/easy/CalculatePoints.java)
+- [Excel Sheet Column Title](src/leetcode_problems/easy/ExcelSheetColumnTitle.kt)
 
 
 
@@ -53,11 +54,11 @@ This repository is my playground where I practice problem-solving, concepts and 
 - [Max SubArray](src/leetcode_problems/medium/MaxSubArray.kt)
 - [ReverseString](src/leetcode_problems/medium/ReverseString.kt)
 - [Longest Substring Without repeating Chars](src/leetcode_problems/medium/LongestSubstringWithoutRepeatingCharacters.kt)
+- [Add Two Numbers](src/leetcode_problems/medium/AddTwoNumbers.kt)
 
 
 ## Hard 
 
-- [Median Of TwoSorted Arrays](src/leetcode_problems/hard/MedianOfTwoSortedArrays.kt)
 - [Median Of TwoSorted Arrays](src/leetcode_problems/hard/MedianOfTwoSortedArrays.kt)
 
 
