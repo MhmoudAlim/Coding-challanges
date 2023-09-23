@@ -44,6 +44,8 @@ This repository is my playground where I practice problem-solving, concepts and 
 - [TwoSumPascal Triangle](src/leetcode_problems/easy/TwoSum.kt)
 - [Calculate Points](src/leetcode_problems/easy/CalculatePoints.java)
 - [Excel Sheet Column Title](src/leetcode_problems/easy/ExcelSheetColumnTitle.kt)
+- [Max Consecutive Ones](src/leetcode_problems/easy/MaxConsecutiveOnes.kt)
+- [Valid Anagram](src/leetcode_problems/easy/Anagram.kt)
 
 
 
@@ -55,6 +57,10 @@ This repository is my playground where I practice problem-solving, concepts and 
 - [ReverseString](src/leetcode_problems/medium/ReverseString.kt)
 - [Longest Substring Without repeating Chars](src/leetcode_problems/medium/LongestSubstringWithoutRepeatingCharacters.kt)
 - [Add Two Numbers](src/leetcode_problems/medium/AddTwoNumbers.kt)
+- [Top K frequent Elements](src/leetcode_problems/medium/TopKfrequentElements.kt)
+- [Pair With Given Difference](src/leetcode_problems/medium/PairWithGivenDifference.kt)
+- [K-diff Pairs in an Array](src/leetcode_problems/medium/K-diffIinArray.kt)
+
 
 
 ## Hard 
