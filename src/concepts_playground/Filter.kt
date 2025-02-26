@@ -1,16 +1,16 @@
 package concepts_playground
 
-fun main() {
-    val list = mapOf<String, Int>()
-        .plus(Pair("A" , 1))
-        .plus(Pair("B", 2))
-        .plus(Pair("C", 3))
-
-    println(filterOutProperties(list ,  "A" ))
-    println(filterOutProperties(list ,  "B" ))
-    println(filterOutProperties(list ,  *arrayOf("B" , "D")  ))
-
-}
+//fun main() {
+//    val list = mapOf<String, Int>()
+//        .plus(Pair("A" , 1))
+//        .plus(Pair("B", 2))
+//        .plus(Pair("C", 3))
+//
+//    println(filterOutProperties(list ,  "A" ))
+//    println(filterOutProperties(list ,  "B" ))
+//    println(filterOutProperties(list ,  *arrayOf("B" , "D")  ))
+//
+//}
 
 private fun filterOutProperties(
     attributes: Map<String, Any>,
@@ -22,6 +22,24 @@ private fun filterOutProperties(
         }
     }
     return attributes
+}
+
+
+class Person{
+    companion object{
+        val x = "sa"
+    }
+
+    fun person(){
+        println(Person::class.simpleName)
+        println(Companion::class.simpleName)
+    }
+
+
+}
+
+fun main() {
+    println(Person().person())
 }
 
 
